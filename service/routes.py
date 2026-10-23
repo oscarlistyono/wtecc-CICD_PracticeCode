@@ -17,6 +17,8 @@ featureC = "Feature C"
 
 featureD = "Feature D"
 
+featureE = "Feature E"
+
 
 ############################################################
 # Health Endpoint
